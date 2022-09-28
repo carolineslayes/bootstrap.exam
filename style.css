@@ -1,0 +1,32 @@
+td {
+    background-color:#CADFF2;
+    text-align: center;
+}
+th {
+    background-color:#A9C3DC;
+}
+body {
+    background-color: #E5E9F0;
+    color: #B73434;
+    font-family: Arial;
+}
+a {
+    color: #2D3C76;
+}
+.milestones-index {
+    background-color:#CADFF2;
+}
+.milestone-heading {
+    font-size: 48px;
+    text-align: center
+}
+.image {
+    text-align: center;
+}
+nav {
+    color:#B73434;
+    background-color:#6C769B;
+}
+h1 {
+    text-align: center;
+}
